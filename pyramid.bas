@@ -56,4 +56,3 @@ LINE (0, baseY)-(640, baseY), 7
 SLEEP
 CLS
 END
-
